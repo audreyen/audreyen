@@ -1,0 +1,60 @@
+---
+image: "boat.jpg"
+about:
+  template: marquee
+  image-shape: rounded
+---
+
+## Professional Experience
+
+*Colorado Department of Natural Resources - Division of Water Resources.*
+
+**Deputy Water Commissioner, Hydrographer** November 2025 - current
+
+-   DWR Hydrographic Services: Collect and disseminate data on surface water flow in streams and water structures within the State to support water rights administration decision making.
+
+-   Water District (64 &1) Deputy Water Commissioner: Assist the River Coordinator and Compact Commissioner in the distribution, control and regulation of waters in water districts pursuant to water court decrees and applicable statutes.
+
+**Hydrography Intern** May 2025 - August 2025
+
+-   Conducted streamflow measurements using velocity meters (FlowTracker 2) and ADCP (RiverPro), calculated discharge and shifts, and verified accuracy of flow measurement structures, recommending improvements when necessary.
+
+-   Supported Surface Water Administration by checking Stage Discharge Recorders, recording gage height and chart run data, and assisting Water Commissioners with diversion, storage, and release records when applicable.
+
+*Colorado State University*
+
+**Lab Assistant/Crew Member.** Wheat Entomology Program**,** Agricultural Biology. 	May 2024 - May 2025
+
+-   Worked on a project investigating wheat line resistance to Wheat Stem Sawfly pest through field work and data collection and analysis.
+
+-   Took initiative in team settings, communicated with the team regarding best methodology to ensure data collection best practices amid inclement conditions. 
+
+**TA, Independent Study.** Human Dimensions of Natural Resources.Jan. 2024 - Dec. 2024
+
+-   Planned and developed several masters courses for M.S. Protected Area Management at CSU Online, including Protected Area and Decision Making and Risk Management for Public Use. 
+
+-   Assessed literature and composed multimedia resources to be used in online curriculum, emphasizing communication and mediation tactics, uses of mixed method data collection, and stakeholder engagement for protected area management. 
+
+## **Leadership and Community Engagement**
+
+**Equity and Leadership in NR.** Warner College of Natural Resources, CSU. 	Aug. 2022
+
+-   Facilitated discussions on equity in natural resource programs and community spaces, emphasizing diverse perspectives and environmental justice.
+
+-   Collaborated in mock debates and case studies on various climate crisis solutions, adding valuable input to conversations regarding advocacy, resiliency, conservation, and recognition.
+
+## **Certifications & Skills**
+
+-   Project Learning Tree Training & Certification. *Warner College of Natural Resources, CSU.*
+
+-   IRB Certification (CITI Program). *Ecosystem Science & Sustainability Department, CSU.* 
+
+-   Proficiency: ArcGIS, ENVI, QGIS, RStudio, Python, HydroBase, Microsoft Applications
+
+## References
+
+-   Elizabeth Tulanowski
+
+-   Corey DeAngelis
+
+-   Adam Osterholzer

@@ -1,11 +1,24 @@
 ---
-title: "audreyen"
+title: "Audrey Engelhardt"
+image: "audreymtn.jpg"
+about: 
+  template: marquee
+  image-shape: rounded
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/audrey-engelhardt
+    - text: GitHub
+      href: https://github.com/audreyen/audreyen
+    - text: Email
+      href: a3engelhardt@gmail.com
 ---
 
-This is a Quarto website.
+### About Me
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hi! You've made it to the homepage of my website. Here, you'll find details about me; my professional experience, educational background, and some information about who I am. Check out my LinkedIn and GitHub, and don't hesitate to reach out via email. 
 
-```{r}
-1 + 1
-```
+
+
+
+
+

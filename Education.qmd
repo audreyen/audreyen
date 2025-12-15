@@ -1,0 +1,72 @@
+---
+image: "grand.jpg"
+about: 
+  template: marquee
+  image-shape: rounded
+---
+
+## Formal Education
+
+B.S. Ecosystem Science and Sustainability \| GIS
+
+Colorado State University (CSU), Fort Collins, CO
+
+Graduated: December 2025
+
+GPA: 3.78
+
+## Coursework
+
+1.  Ecosystem Science
+
+    1.  ESS 330 Quantitative Reasoning for Ecosystem Science
+
+    2.  ESS 312 Sustainability Science
+
+    3.  ESS 365 Global Climate Justice
+
+    4.  ESS 311 Ecosystem Ecology
+
+    5.  ESS 487 Internship - Colorado Division of Water Resources
+
+    6.  ESS 523A Environmental Data Science Applications
+
+    7.  ESS 411 Earth Systems Ecology
+
+    8.  ESS 440 Practicing Sustainability Capstone
+
+2.  Watershed Science/Water Resource Management
+
+    1.  WR 416 Land Use Hydrology
+
+    2.  WR 418 Land Use and Water Quality
+
+    3.  AREC 342 Water Law, Policy, and Institutions
+
+    4.  GRAD 592 Water Resources Seminar
+
+3.  Geographic Information Science
+
+    1.  NR 319 Geospatial Applications for Natural Resources & Cartography (ArcGIS Pro, QGIS)
+
+    2.  NR 426 Programming for GIS I (Python) 
+
+    3.  NR 423 Applications of Global Positioning Systems (Garmin, Trimble, Avenza, ArcGIS Field Maps)
+
+    4.  NR 323 Remote Sensing and Image Interpretation (ENVI)
+
+    5.  NR 450 Geospatial Project Design and Analysis (ArcGIS Pro, QGIS)
+
+4.  Scientific Communication
+
+    1.  NRRT 495A Independent Study
+
+    2.  NR 400 Public Communication in Natural Resources
+
+## Projects
+
+1.  Sustainable Livelihoods, Biodiversity Conservation & Climate Solutions through Voluntary Carbon Offsets in the Peruvian Andes. Project Stakeholders: David LaGreca, Mountain Sentinels Alliance, Llupa Community, Instituto de Montaña. Project Members: Isabella Felsing, Audrey Engelhardt, Ally Lewis, Amelia Anderson
+
+    1.  Synopsis: Healthy ecosystems in the alpine environments of Huascaran National Park, Peru are important for conserving biodiversity while having the potential to act as carbon sinks. Climate change & historical grazing patterns have degraded these ecosystems that instead might be contributing to carbon emissions. This project aimed to identify areas to reforest and restore peatlands as part of a voluntary carbon market project.
+
+    2.  Deliverables: Quantify areas in Quilcayhuanca Valley suitable for Polylepis reforestation and peatland expansion/restoration and visualize findings for project stakeholders and project partners. 

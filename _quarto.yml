@@ -8,12 +8,15 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - Education.qmd
+      - Experience.qmd
+      - Personal.qmd
+
 
 format:
   html:
     theme:
-      - cosmo
+      - Pulse
       - brand
     css: styles.css
     toc: true

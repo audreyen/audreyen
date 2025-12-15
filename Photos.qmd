@@ -1,0 +1,29 @@
+---
+title: "Portfolio"
+image: kona.png
+about: 
+  template: trestles
+  image-shape: rounded
+  image-width: 15em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/konadog/
+    - text: Twitter
+      href: https://twitter.com/konadog
+    - text: GitHub
+      href: https://github.com/konadog
+    - text: Email
+      href: mailto:konadog@colostate.edu
+---
+
+------------------------------------------------------------------------
+
+Colorado State University Coursework B.S. Ecosystem Science and Sustainability \| GIS
+
+GRAD 592: Interdisciplinary Water Resources Seminar
+
+WR 416: Land Use Hydrology
+
+ESS 523A: Environmental Data Science Applications
+
+NR 450: Geospatial Project Design and Analysis
